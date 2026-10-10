@@ -1,7 +1,7 @@
 {
   "id": "/",
-  "name": "ResQGrid AI Emergency Response Network",
-  "short_name": "ResQGrid",
+  "name": "SARA AI Emergency Response Network",
+  "short_name": "SARA",
   "description": "Offline-First Emergency Response, BLE Beacon Mesh & Hazard Intelligence System",
   "start_url": "/",
   "scope": "/",

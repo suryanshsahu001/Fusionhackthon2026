@@ -28,8 +28,8 @@ export const DEMO_USER_PROFILES: Record<UserRole, User> = {
     username: "admin",
     full_name: "Team Delta (EOC Command & System Admin)",
     role: "admin",
-    organization: "Team Delta — ResQGrid Command Center",
-    email: "teamdelta@resqgrid-ai.org",
+    organization: "Team Delta — SARA Command Center",
+    email: "teamdelta@sara-ai.org",
     permissions: ["*"],
     is_active: true
   },
@@ -38,8 +38,8 @@ export const DEMO_USER_PROFILES: Record<UserRole, User> = {
     username: "admin",
     full_name: "Team Delta (EOC Command & System Admin)",
     role: "admin",
-    organization: "Team Delta — ResQGrid Command Center",
-    email: "teamdelta@resqgrid-ai.org",
+    organization: "Team Delta — SARA Command Center",
+    email: "teamdelta@sara-ai.org",
     permissions: ["*"],
     is_active: true
   },
@@ -48,8 +48,8 @@ export const DEMO_USER_PROFILES: Record<UserRole, User> = {
     username: "admin",
     full_name: "Team Delta (EOC Command & System Admin)",
     role: "admin",
-    organization: "Team Delta — ResQGrid Command Center",
-    email: "teamdelta@resqgrid-ai.org",
+    organization: "Team Delta — SARA Command Center",
+    email: "teamdelta@sara-ai.org",
     permissions: ["*"],
     is_active: true
   },
@@ -68,8 +68,8 @@ export const DEMO_USER_PROFILES: Record<UserRole, User> = {
     username: "admin",
     full_name: "Team Delta (EOC Command & System Admin)",
     role: "admin",
-    organization: "Team Delta — ResQGrid Command Center",
-    email: "teamdelta@resqgrid-ai.org",
+    organization: "Team Delta — SARA Command Center",
+    email: "teamdelta@sara-ai.org",
     permissions: ["*"],
     is_active: true
   }

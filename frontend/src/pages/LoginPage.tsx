@@ -83,7 +83,7 @@ export const LoginPage: React.FC = () => {
             <ShieldAlert className="w-8 h-8 text-white" />
           </div>
           <h1 className="text-2xl md:text-3xl font-black tracking-tight text-white flex items-center justify-center gap-2">
-            <span>ResQGrid AI</span>
+            <span>SARA AI</span>
             <span className="text-xs px-2.5 py-0.5 rounded-full bg-emerald-500/20 text-emerald-400 border border-emerald-500/30 font-bold">
               Multi-Device Live
             </span>

@@ -94,7 +94,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ collapsed, setCollapsed }) => 
             {!collapsed && (
               <div className="flex flex-col">
                 <span className="font-bold text-sm tracking-tight text-slate-900 dark:text-white">
-                  ResQGrid
+                  SARA
                 </span>
                 <span className="text-[11px] text-slate-500 font-medium">
                   Emergency Response

@@ -68,7 +68,7 @@ export const PWAInstallBanner: React.FC = () => {
               </div>
               <div>
                 <div className="flex items-center gap-1.5">
-                  <h4 className="font-bold text-sm text-slate-100 tracking-tight">Install ResQGrid AI</h4>
+                  <h4 className="font-bold text-sm text-slate-100 tracking-tight">Install SARA AI</h4>
                   <span className="px-1.5 py-0.5 rounded text-[10px] font-bold bg-cyan-500/20 text-cyan-300 border border-cyan-500/30">PWA</span>
                 </div>
                 <p className="text-xs text-slate-300 line-clamp-1">Install to home screen for 100% Zero-Network offline operations</p>
